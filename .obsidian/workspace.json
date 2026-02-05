@@ -184,9 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25179ce4e883078d",
+  "active": "f3639713abd67a09",
   "lastOpenFiles": [
+    "content/Welcome.md",
     "content/index.md",
+    "content",
     "quartz.layout.ts",
     "quartz.config.ts",
     "package-lock.json",
@@ -197,7 +199,6 @@
     "Dockerfile",
     "CODE_OF_CONDUCT.md",
     "quartz/util/trace.ts",
-    "quartz/util/theme.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "node_modules/zwitch/readme.md",
@@ -223,7 +224,6 @@
     "node_modules/varint/README.md",
     "node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
     "node_modules/unist-util-visit-parents/readme.md",
-    "node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
     "node_modules/js-binary-schema-parser/example/horses.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",
     "node_modules/js-binary-schema-parser/example/box.gif",
