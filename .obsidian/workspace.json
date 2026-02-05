@@ -186,6 +186,7 @@
   },
   "active": "25179ce4e883078d",
   "lastOpenFiles": [
+    "content/index.md",
     "quartz.layout.ts",
     "quartz.config.ts",
     "package-lock.json",
@@ -197,7 +198,6 @@
     "CODE_OF_CONDUCT.md",
     "quartz/util/trace.ts",
     "quartz/util/theme.ts",
-    "quartz/util/sourcemap.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "node_modules/zwitch/readme.md",
