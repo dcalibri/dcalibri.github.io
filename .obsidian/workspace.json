@@ -165,12 +165,12 @@
               "title": "Outline of Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +180,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "25179ce4e883078d",
   "lastOpenFiles": [
-    "Untitled 1.md"
+    "quartz.layout.ts",
+    "quartz.config.ts",
+    "package-lock.json",
+    "package.json",
+    "LICENSE.txt",
+    "index.d.ts",
+    "globals.d.ts",
+    "Dockerfile",
+    "CODE_OF_CONDUCT.md",
+    "quartz/util/trace.ts",
+    "quartz/util/theme.ts",
+    "quartz/util/sourcemap.ts",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "node_modules/zwitch/readme.md",
+    "node_modules/yoga-layout/README.md",
+    "node_modules/yargs-parser/README.md",
+    "node_modules/yargs-parser/CHANGELOG.md",
+    "node_modules/yargs/README.md",
+    "node_modules/y18n/README.md",
+    "node_modules/y18n/CHANGELOG.md",
+    "node_modules/xmldom-sre/readme.md",
+    "node_modules/ws/README.md",
+    "node_modules/wrap-ansi/readme.md",
+    "node_modules/workerpool/README.md",
+    "node_modules/workerpool/HISTORY.md",
+    "node_modules/wicked-good-xpath/README.md",
+    "node_modules/web-namespaces/readme.md",
+    "node_modules/vfile-location/node_modules/@types/unist/README.md",
+    "node_modules/vfile-location/readme.md",
+    "node_modules/vfile/node_modules/@types/unist/README.md",
+    "node_modules/vfile/node_modules/vfile-message/readme.md",
+    "node_modules/vfile/node_modules/unist-util-stringify-position/readme.md",
+    "node_modules/vfile/readme.md",
+    "node_modules/varint/README.md",
+    "node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-visit-parents/readme.md",
+    "node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "docs/images/social-image-preview-light.png"
   ]
 }
